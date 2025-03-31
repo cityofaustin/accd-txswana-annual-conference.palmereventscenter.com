@@ -19,9 +19,9 @@ catering_manager:
   email: kcraig@levyrestaurants.com
   phone: 5124044137
 it_coordinator:
-  name: Jeff Moore
-  email: jeff.moore@austintexas.gov
-  phone: 5124044033
+  name: Chad Paine
+  email: chad.paine@austintexas.gov
+  phone: 5124044098
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v1.0
 searchable: true
